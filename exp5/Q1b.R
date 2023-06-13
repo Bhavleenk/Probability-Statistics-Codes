@@ -1,0 +1,1 @@
+punif(q=30,min=0,max=60)-punif(q=20,min=0,max=60)

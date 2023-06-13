@@ -1,0 +1,1 @@
+dexp(4,rate=1/3) # d is density function
