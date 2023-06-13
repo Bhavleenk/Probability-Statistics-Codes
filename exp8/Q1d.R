@@ -1,0 +1,6 @@
+m=data<-read.csv(file.choose())
+dim(m)
+head(data,10)
+mean(data$Wall.Thickness)
+hist(data$Wall.Thickness)
+abline(v=12.8,col="Red")
